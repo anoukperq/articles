@@ -1,13 +1,25 @@
+Structure
+What is continuous deloyment?
+How does this impact translation?
+What are the main changes and principles that should be transferred to translation? 
+What needs to change?
+What is quality? How is it obtained?
 
-The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. 
-In a traditional waterfall development process translation/localization was often delayed until nearly product release. 
 
+
+What is continuous deployment?
+The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies 
+to more lean, agile, and highly fluid methodologies. 
+Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability. 
+
+How does this impact translation?
+This approach is completely at odds with today’s translation and localization processes.
+In a traditional waterfall development process translation/localization was often delayed until nearly product release.
 User interfaces and most product documentation was generally frozen and near final completion before translation would even begin. 
 The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. 
 This meant that a release though already completed in English would still several weeks or months before the translations would be complete thereby delaying the overall release time of the application. 
 
-Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability. 
-This approach is completely at odds with today’s translation and localization processes. 
+ 
 Teams now want to translate quickly, incrementally, with minimal human engagement. 
 Translators are now expected to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. 
 
