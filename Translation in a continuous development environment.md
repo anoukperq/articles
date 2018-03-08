@@ -22,15 +22,13 @@ Translators are now expected to quickly determine and understand the context of 
 
 This means that translators now need to take on new roles that extend beyond simple translation.
 
-They now need to decide how and when to make use of machine translation and when high quality is needed. They may also need to look at provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
-
-
 ## What needs to change?
 
 This new way of working now requires us to rethink how translation fits into modern development strategies. 
 
 Software teams are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. 
 
+They now need to decide how and when to make use of machine translation and when high quality is needed. They may also need to look at provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
 
 ## What are the main principles from continuous deployment and agile development that should be transferred to translation?
 
