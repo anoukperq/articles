@@ -1,19 +1,18 @@
-Structure
-What is continuous deployment?
-How does this impact translation?
-What are the main changes and principles that should be transferred to translation? 
-What needs to change?
-What is quality? How is it obtained?
+# Structure
+* What is continuous deployment?
+* How does this impact translation?
+* What are the main changes and principles that should be transferred to translation? 
+* What needs to change?
 
 
-#Translation in a continuous development 
+# Translation in a continuous development 
 
 ## What is continuous deployment?
 
 The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies.
 Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability. 
 
-##How does this impact translation?
+## How does this impact translation?
 
 This approach is completely at odds with today’s translation and localization processes.
 In a traditional waterfall development process translation/localization was often delayed until nearly product release.
@@ -30,7 +29,7 @@ Translators are now expected to quickly determine and understand the context of 
 At the same time development teams want to minimize the overall cost in creating applications, especially when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
 This means that translators now need to take on new roles that extend beyond simple translation.
 
-##What needs to change?
+## What needs to change?
 
 This new way of working now requires us to rethink how translation fits into modern development strategies. 
 
