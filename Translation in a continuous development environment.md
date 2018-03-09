@@ -3,7 +3,7 @@
 * How does this impact translation? 
 * What needs to change?
 * What aspect from continuous delivery and agile development should be transferred to translation in order to make this work?
-* Where do we see things going?
+
 
 
 # Translation in a continuous delivery environment
@@ -42,7 +42,4 @@ Software teams are looking to transition away from big distributed development t
 * Maximize the work not done: Notion of translation quality is substantially changing from creating the most beautiful translation to 'creating the translation that has the most value'. The value is defined by the combination of usability and time to market. 
 * Create multidisciplinary teams. Define localization as part of the Definition of Done of your product. Make a decision on the state the language versions of the product must be in in order to deploy.
 
-## Where do we see things going?
-
-* notion of content: questions and answers
  
