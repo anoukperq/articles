@@ -2,7 +2,7 @@
 * What is continuous delivery?
 * How does this impact translation? 
 * What needs to change?
-* What aspect from continuous deployment should be transferred to translation?
+* What aspect from continuous delivery and agile development should be transferred to translation in order to make this work?
 * Where do we see things going?
 
 
@@ -12,6 +12,8 @@
 
 The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability. 
 
+Development teams want to minimize the overall cost in creating applications, especially when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
+
 ## How does this impact translation?
 
 This approach is completely at odds with today’s translation and localization processes.
@@ -19,21 +21,25 @@ This approach is completely at odds with today’s translation and localization 
 In a traditional waterfall development process translation/localization was often delayed until nearly product release. User interfaces and most product documentation was generally frozen and near final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release though already completed in English would still several weeks or months before the translations would be complete thereby delaying the overall release time of the application. 
  
 Teams now want to translate quickly, incrementally, with minimal human engagement. 
-Translators are now expected to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. At the same time development teams want to minimize the overall cost in creating applications, especially when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
 
-This means that translators now need to take on new roles that extend beyond simple translation.
 
 ## What needs to change?
 
 This new way of working now requires us to rethink how translation fits into modern development strategies. 
 
-Software teams are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. 
+Software teams are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. Translators now need to take on new roles that extend beyond simple translation:
 
-They now need to decide how and when to make use of machine translation and when high quality is needed. They may also need to look at provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
+* Translators are now expected to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. 
 
-## What are the main principles from continuous deployment and agile development that should be transferred to translation?
+* Translators now need to decide how and when to make use of machine translation and when other quality is needed in order to reach the goal of the content. 
 
-* what is quality now?
+* Translators also need to be enabled to provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
+
+## What are the main principles from continuous delivery and agile development that should be transferred to translation in order to make this work?
+
+
+* Multidisciplinary teams
+* Notion of quality is substantially changing
 
 
 ## Where do we see things going?
