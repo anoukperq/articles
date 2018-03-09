@@ -22,7 +22,7 @@ This approach is completely at odds with today’s translation and localization 
 
 In a traditional waterfall development process translation/localization was often delayed until nearly product release. User interfaces and most product documentation was generally frozen and near final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release though already completed in English would still several weeks or months before the translations would be complete thereby delaying the overall release time of the application. 
  
-In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed. This means that delaying a product release because of the time it takes to translate is basically not acceptable. 
+In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed. This means that delaying a product release because of translation is basically not acceptable. 
 
 This means that for translation the same thing goes as for software development: teams now need to translate quickly and incrementally, with minimal human overhead. 
 
@@ -47,6 +47,12 @@ Software teams are looking to transition away from big distributed development t
 * Create multidisciplinary teams. Define localization as part of the Definition of Done of your product increment. Make a decision on the state the language versions of the product must be in in order to deploy.
 * Team empowerment. Let the translators in the team decide how the goals are to be reached when it comes to multilingual deployment.
 * Embrace Change: Make sure change is at the core of your process. Content is dynamic and consolidation of the source before translating delays deployment unnecessarily
-* Get feedback: Don't be afraid to publish early versions of your translations. Make sure you can implement feedback easily and fast.
+* Get feedback: Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and fast.
 
- 
+
+## Conclusion: a mind shift
+For a lot of people that have been working in the localization industry, it is not an easy step to allow something that is not perfect to go out. Many QA cycles are usually applied before content is published. This is because content is still considered a static thing, as it was in the times that all content was printed on paper. What we need to realize is that quality is equal to usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
+
+
+
+Do you have any feedback on this 
