@@ -3,7 +3,7 @@
 * How does this impact translation? 
 * What needs to change?
 * What aspect from continuous delivery and agile development should be transferred to translation in order to make this work?
-* Where do we see things going?
+
 
 
 # Translation in a continuous delivery environment
@@ -49,7 +49,4 @@ Software teams are looking to transition away from big distributed development t
 * Embrace Change: Make sure change is at the core of your process. Content is dynamic and consolidation of the source before translating delays deployment unnecessarily
 * Get feedback: Don't be afraid to publish early versions of your translations. Make sure you can implement feedback easily and fast.
 
-## Where do we see things going?
-
-* notion of content: questions and answers
  
