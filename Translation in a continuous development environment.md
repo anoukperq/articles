@@ -43,7 +43,7 @@ Software teams are looking to transition away from big distributed development t
 * Create multidisciplinary teams. Define localization as part of the Definition of Done of your product increment. Make a decision on the state the language versions of the product must be in in order to deploy.
 * Team empowerment. Let the translators in the team decide how the goals are to be reached when it comes to multilingual deployment.
 * Embrace Change: Make sure change is at the core of your process. Content is dynamic and consolidation of the source before translating delays deployment unnecessarily
-* Get feedback: Be not afraid to publish early versions of your translations. Make sure you can implement feedback easily and fast.
+* Get feedback: Don't be afraid to publish early versions of your translations. Make sure you can implement feedback easily and fast.
 
 ## Where do we see things going?
 
