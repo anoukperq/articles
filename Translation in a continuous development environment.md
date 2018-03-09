@@ -24,7 +24,7 @@ In a traditional waterfall development process translation/localization was ofte
  
 In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed. This means that delaying a product release because of the time it takes to translate is basically not acceptable. 
 
-This means that for translation the same thing goes as for software development: teams now need to translate quickly and incrementally, with minimal human engagement. 
+This means that for translation the same thing goes as for software development: teams now need to translate quickly and incrementally, with minimal human overhead. 
 
 
 ## What needs to change?
