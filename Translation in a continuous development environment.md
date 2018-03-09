@@ -22,7 +22,9 @@ This approach is completely at odds with today’s translation and localization 
 
 In a traditional waterfall development process translation/localization was often delayed until nearly product release. User interfaces and most product documentation was generally frozen and near final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release though already completed in English would still several weeks or months before the translations would be complete thereby delaying the overall release time of the application. 
  
-Teams now want to translate quickly, incrementally, with minimal human engagement. 
+In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed. This means that delaying a product release because of the time it takes to translate is basically not acceptable. 
+
+This means that for translation the same thing goes as for software development: teams now need to translate quickly and incrementally, with minimal human engagement. 
 
 
 ## What needs to change?
