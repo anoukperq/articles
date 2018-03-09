@@ -14,6 +14,8 @@ The software industry has been in a revolution in the transformation from buildi
 
 Development teams want to minimize the overall cost in creating applications, especially when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
 
+They do this by continuously deploying minimal increments of their product, testing it by having people actually use it. They use the feedback of these users to create the next increment that is also deployed as early as possible. The effect is that instead of spending months to create a huge software release, of which it is unclear whether it will be to the user's liking, small updates are deployed, sometimes multiple times a day. 
+
 ## How does this impact translation?
 
 This approach is completely at odds with today’s translation and localization processes.
