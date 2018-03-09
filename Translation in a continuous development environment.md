@@ -1,13 +1,14 @@
 # Structure
-* What is continuous deployment?
+* What is continuous delivery?
 * How does this impact translation? 
 * What needs to change?
-* What are the main principles from continuous deployment that should be transferred to translation?
+* What aspect from continuous deployment should be transferred to translation?
+* Where do we see things going?
 
 
-# Translation in a continuous development environment
+# Translation in a continuous delivery environment
 
-## What is continuous deployment?
+## What is continuous delivery?
 
 The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability. 
 
@@ -32,4 +33,10 @@ They now need to decide how and when to make use of machine translation and when
 
 ## What are the main principles from continuous deployment and agile development that should be transferred to translation?
 
+* what is quality now?
+
+
+## Where do we see things going?
+
+* notion of content: questions and answers
  
