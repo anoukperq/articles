@@ -4,9 +4,12 @@
 * What needs to change?
 * What aspect from continuous delivery and agile development should be transferred to translation in order to make this work?
 
-
+ 
 
 # Translation in a continuous delivery environment
+
+## Goal
+This article aims to give insight on the impact on translation processes if software is deployed continuously and addresses the mindshift that is required to stop translation from being the bottleneck.
 
 ## What is continuous delivery?
 
@@ -54,5 +57,4 @@ Software teams are looking to transition away from big distributed development t
 For a lot of people that have been working in the localization industry, it is not an easy step to allow something that is not perfect to go out. Many QA cycles are usually applied before content is published. This is because content is still considered a static thing, as it was in the times that all content was printed on paper. What we need to realize is that quality is equal to usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
 
 
-
-Do you have any feedback on this 
+Please share your feedback! Through the medium platform or contact the writers directly through LinkedIn. 
