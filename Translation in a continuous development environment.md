@@ -52,15 +52,15 @@ Software companies are looking to transition away from big distributed developme
 
 * Constantly solicit feedback. Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and quickly.
 
-
 ## Conclusion: a paradigm shift
 For a lot of people that have been working in the translation and localization industry, it is not an easy step to let go of the traditional processes that have worked well for many years. It is often difficult to allow products that may have imperfect translations to go out, as this is something that seems completely at odds with the high standards that the industry has established. Typically many QA cycles are usually applied before translations are published. These processes have worked well in the past where constant change was less of a factor, but in today's rapid and shortened development cycles these processes no longer meet current needs. 
 
 What we need to realize is that the notion of quality is now more fluid. Our emphasis needs to shift to the concept of usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
 
 ### Practice what you preach
-Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly.
+Was this article useful to you? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share your feedback through the medium platform or contact the authors directly.
 
-### About the autors
-Steve Atkin is CTO and distinguished engineer at IBM, responsible for... 
-Anouk Perquin is independent consultant in the field of agile content creation and translation
+### About the authors
+Steve Atkin (atkin@ibm.us.com) is CTO and distinguished engineer at IBM. 
+
+Anouk Perquin (anouk.perquin@gmail.com) is independent consultant in the field of agile content creation and translation.
