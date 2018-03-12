@@ -59,5 +59,8 @@ For a lot of people that have been working in the translation and localization i
 What we need to realize is that the notion of quality is now more fluid. Our emphasis needs to shift to the concept of usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
 
 ### Practice what you preach
-Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly through LinkedIn. 
+Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly.
 
+### About the autors
+Steve Atkin is CTO and distinguished engineer at IBM, responsible for... 
+Anouk Perquin is independent consultant in the field of agile content creation and translation
