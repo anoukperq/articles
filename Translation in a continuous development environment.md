@@ -61,6 +61,6 @@ What we need to realize is that the notion of quality is now more fluid. Our emp
 Was this article useful to you? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share your feedback through the medium platform or contact the authors directly.
 
 ### About the authors
-Steve Atkin (atkin@ibm.us.com) is CTO and distinguished engineer at IBM. 
+Steve Atkin (atkin@us.ibm.com) is CTO and distinguished engineer at IBM. 
 
 Anouk Perquin (anouk.perquin@gmail.com) is independent consultant in the field of agile content creation and translation.
