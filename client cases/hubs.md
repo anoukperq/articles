@@ -161,4 +161,6 @@ de meeste kun je oplossen door gewoon goed te kijken en het te fixen waar het ge
 maar het wordt zo ingewikkeld dat dat bijna niet gaat
 dus daarom moet je naar kleinere pieces
 
-  
+EN: idealiter schrijf je je content in een omgeving waar ook op deze manier gewerkt wordt. Dus niet in docs, waar alles mag, en wat je vervolgens dan weer naar deze limitaties moet krijgen. Idem voor design. 
+
+
