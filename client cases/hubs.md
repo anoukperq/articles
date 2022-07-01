@@ -5,6 +5,19 @@ Target Group: Contentful users who have problems with their localization pipelin
 
 Goal: to give a blue print on how to work with Contentful and TMSs, how current solutions are not working, and what the key insight is to make it work, and to have content flow in all languages. 
 
+## Executive summary
+- Use Contentful
+- Use Chunks
+- Use these chunks in all steps of your process. Mainly content creation and design.
+- Translations make all your problems 10x worse. Waterfall makes it 100x worse.
+- Build your chunks properly. No markdown.
+- Use a TMS.
+- Also use chunks during translating.
+- Presenting: A complete setup for agile content management and localisation
+- Our Results
+- Further research required
+
+
 ## Intro:
 The worlds of content management and translation management are, you could say, Venus and Mars. These different planets collide quite dramatically most of the time. For most companies, translation processes are the ones no-one in the content department wants to come close to, because they are too painful, always require rework and have a less than optimal result in terms of UX. 
 
