@@ -18,16 +18,10 @@ So in this article we will fill this gap. Written by Contentful-expert Dennis an
 
 ## Outline
 
-### General problems with translation
-This sections gives an overview of problems that arise when working in translation. 
-
-- waterfall
-- technical defects 
-- rework on design 
-- time to market
 
 
-### How are website typically built - and translated
+### How are website typically built (- and translated)?
+dit misschien maar een korte paragraag. 
 
 
 
@@ -47,14 +41,44 @@ Reden:
 - ontkoppelen content van design (zeer belangrijk voor vertalen)
 - meer complexiteit in pagina's mogelijk zonder dat je content model complex wordt
 
+### Reality
 
 Main problem: 
-we denken in termen van "oud" website bouwen, terwijl contentful een andere filosofie heeft. 
+Mensen denken in termen van "oud" website bouwen, terwijl contentful een andere filosofie heeft. 
 
-Andere tools, maar ook mensen, gaan uit van "oud", waterval, etc, en die twee gedachtengangen botsen. Daardoor wordt de filosofie niet helemaal gevolgd en wordt het een troepje. 
+- Dit uit zich bijvoorbeeld in een design voor een gehele pagina
+- bovendien is het vaak een waterval proces, waar eerst in Figma een design gemaakt wordt, en in Google docs de content. Dat geheel gaat naar de developer en die moet er maar wat van maken, zonder dat er in het design gewerkt is geweest met de structuur in contentful. 
+
+
+- als de pagina niet in chunks gedesigned wordt - en waterval - dan moet de developer een pagina ontwerp in chunks gieten. 
+- Allerlei design aspecten worden ad hoc opgelost in contentful, met html, markdown en code, in plaats van dat de designer wordt gevraagd om het een beetje netjes te maken. 
+
+It creeps in: uiteindelijk is het developen van een pagina erg veel werk, doordat het design los staat van de structuur waarin het gegoten wordt. Maar: er is niet voldoende urgentie om dit aan te pakken. 
+
+### Enter translation
+This section describes what happens if, in this environment, translation is added to the process. 
+
+- now there's a need to translate. We're going international!
+- so after the pages are published, they're sent off for translation. Sounds logical, right? 
+
+Not so much, actually. In the following sections we will describe why this approach leads to major problems that can actually stop you from international expansion. 
 
 
 
+
+what happens:
+- exceptions  (code, html, md) - unstructured text! in design lead to problems in translation - we will explain why
+- 
+
+
+
+### General problems with translation
+This sections gives an overview of problems that arise when working in translation. 
+
+- waterfall
+- technical defects 
+- rework on design 
+- time to market
 
 
 
