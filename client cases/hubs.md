@@ -21,12 +21,25 @@ So in this article we will fill this gap. Written by Contentful-expert Dennis an
 
 
 ### How are website typically built (- and translated)?
-dit misschien maar een korte paragraag. 
-
+- Websites get viewed as a collection of text documents.
+- Every page gets a template that needs to be designed and built ahead of time.
+- TODO: voorbeeld diagram/ wireframe
+- Works well on smaller websites with similar, non-repeating content.
 
 
 ### What do you run into? 
+- Doesn't scale.
+- More content means many templates, a complex CMS and high dev involvement.
+- You need a WYSIWYG editor to give editors more flexibility because the templates are often very rigid.
+- That means content gets mixed with Markdown, HTML, CSS, or even JS. Making it very hard to re-use across the website. And impossible to re-use across channels.
 
+
+_Segway paragraph, in het kort, waarom is een traditioneel CMS gedoemt om te falen in de nieuwe wereld_
+- Slowly, the CMS world is moving to a component-based strategy. Even these old systems.
+- Old CMS-es are not built up to handle these different components effectively. They mix content and presentation and are almost impossible to re-use. Again, resulting in duplicated data.
+- Contentful, and others, solve this through a Content Model.
+
+Dat is de "defining feature" van een modern CMS. Heeft het een content model waarmee je de verschillende soorten content en hun relaties beschrijft.
 
 
 ### how contentful is designed
@@ -35,9 +48,32 @@ This section describes the philosphy of contentful and how this translates to tr
 
 - Philosophy: chunks and blobs => structured blocks of content that fit together; 
 
-Reden:
-- reusability
-- multi-channel
+- Define a blueprint for your website and define how the different types of information work together.
+- Instead of defining “blobs” of content, like in a markdown editor, you define separate fields for your content types. So instead of an article, that’s  just a single markdown field. You could define a simple content model like so:
+
+TODO: simple diagram maken
+```md
+[article]
+- title: "My First Article"
+- url: "/my-first-article"
+- Chapters: [chapter-1, chapter-2]
+- CTA: [cta-1]
+
+[chapter-1]
+- title: "My first chapter"
+- content: "Long text"
+
+[chapter-2]
+- title: "My second chapter"
+- content: "Long text"
+
+[cta-1]
+- cta: "My actionable CTA"
+- target: "www.buymybook.com"
+```
+
+- Write once, use anywhere
+- Translate once, use anywhere
 - ontkoppelen content van design (zeer belangrijk voor vertalen)
 - meer complexiteit in pagina's mogelijk zonder dat je content model complex wordt
 
